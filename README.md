@@ -2,5 +2,5 @@
 Java Reflection Mini Help.
 
 ## Todos:
-- Change Final Value
+- Change Fields, Change Final Field
 - Print Method Modifiers
